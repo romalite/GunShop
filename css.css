@@ -1,0 +1,10 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.item{
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+}
