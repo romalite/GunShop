@@ -1,7 +1,7 @@
 let product = document.getElementById('grid')
 let xhr = new XMLHttpRequest
-let url = 'https://my-json-server.typicode.com/romalite/GunShop'
-xhr.open("GET", url+ "/products/")
+let url = 'https://my-json-server.typicode.com/romalite/GunShop/users'
+xhr.open("GET", url+ "/users/")
 
 xhr.responseType = 'json'
 xhr.send()
