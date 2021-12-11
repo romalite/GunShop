@@ -1,0 +1,73 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Andriy",
+            "sirname": "Moskalenko",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
+            "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Yuriy",
+            "sirname": "Berezovchuk",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
+            "balance": 5790
+        },
+        {
+            "id": 3,
+            "name": "Cat",
+            "sirname": "Egyptian",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
+            "balance": 0
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "name": "Glock 17",
+            "description": "Хороший пистолет.",
+            "price": 500,
+            "author_id": 1,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Glock_17_%286825676904%29.jpg"
+        },
+        {
+            "id": 2,
+            "name": "HK USP",
+            "description": "пистолет для дальних дистанций",
+            "price": 450,
+            "author_id": 3,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HK_USP_9mm_Pragl.jpg"
+        },
+        {
+            "id": 3,
+            "name": "АК-47",
+            "description": "Калаш.",
+            "price": 1000,
+            "author_id": 2,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/AK-47_assault_rifle.jpg"
+        },
+        {
+            "id": 4,
+            "name": "M4",
+            "description": "Для контров.",
+            "price": 1500,
+            "author_id": 1,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/M4_PEO_Soldier.jpg"
+        },
+        {
+            "id": 5,
+            "name": "AWM-338",
+            "description": "Снайперская винтовка.",
+            "price": 2500,
+            "author_id": 3,
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/AWM-338-white.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Magnum",
+            "description": "Револьвер.",
+            "price": 1250,
+            "author_id": 2,
+            "photo_url": "https://images.ua.prom.st/1903914806_rewolwer-357-magnum.jpg"
+        }
+    ]
+}

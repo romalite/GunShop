@@ -15,7 +15,7 @@ xhr.onload = function () {
             <h1>${products[0].price}<h1>
             <h1>${products[0].description}<h1>
             </div>
-            <div id="Glock" class = "item">
+            <div id class = "item">
             <h1>${products[1].name}<h1>
             <img width="250px" src ='${products[1].photo_url}'
             <h1>${products[1].price}<h1>

@@ -1,0 +1,9 @@
+.item{
+    border-radius: 10px;
+    background-color: rgba(9, 8, 10, 0.699);
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: center;
